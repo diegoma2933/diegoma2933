@@ -6,9 +6,9 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoma2933&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoma2933&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoma2933&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoma2933&theme=dark&layout=compact&count_private=true)
 
 ---
 
@@ -42,48 +42,6 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🚀 Arktic - Desarrollador Full-Stack
-**MAR 2026 — ACTUALIDAD**
-- Desarrollo Backend con Java y Spring Boot
-- Administración de Sistemas en la nube (AWS)
-- Gestión de bases de datos (PostgreSQL, MySQL)
-- Integración continua con GIT, Jenkins y Grafana
-- Proyecto BBVA (Riesgos de mercado)
-
-### 🚀 MyCargoGate - Desarrollador Full-Stack
-**ABR 2024 — MAR 2026**
-- Desarrollo de Frontend (Angular, React, HTML, CSS)
-- Desarrollo de Backend con Microservicios (Java, Spring Boot)
-- Administración AWS (EC2, RDS, S3, Load Balancing, Lambda)
-- Gestión de bases de datos MySQL
-- Integración continua (GIT, Jenkins, Grafana, Bitbucket, Jira)
-
-### 🚀 Atos - Desarrollador Full-Stack
-**FEB 2022 — ABR 2024**
-- Desarrollo Web Frontend (JSP, HTML, CSS)
-- Desarrollo Backend (Java, Maven, Struts, Hibernate)
-- Gestión de bases de datos Oracle PL/SQL
-- Generación de reportes con Oracle Report Builder
-- Integración continua con SVN y Jenkins
-- Proyecto JCCM - Tramitador
-
-### 🚀 Inforcopy - Desarrollador Web
-**JUL 2020 — JUL 2021**
-- Desarrollo web y mantenimiento de aplicaciones
-- Administración de Sistemas
-
----
-
-## 🎓 Educación
-
-- **Desarrollo de Aplicaciones Web (DAW)** - IES María Pacheco (2020-2022)
-- **Administración de Sistemas Informáticos en Red (ASIR)** - IES Azarquiel (2018-2020)
-- **Bachillerato Tecnológico** - IES Azarquiel (2016-2018)
-
----
-
 ## 🎯 Habilidades
 
 ✅ Desarrollo Web Full-Stack  
@@ -95,7 +53,7 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ---
 
-## 📞 Conéctate Conmigo
+## 📞 Contacta Conmigo
 
 - 📧 **Email:** [diegoma2933@gmail.com](mailto:diegoma2933@gmail.com)
 - 🌐 **Sitio Web:** [www.diegomartinarellano.com](https://www.diegomartinarellano.com)
