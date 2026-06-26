@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**diegoma2933/diegoma2933** is a ✨ _special_ ✨ repository because its `# ¡Hola! 👋 Soy Diego Martín Arellano
+# ¡Hola! 👋 Soy Diego Martín Arellano
 
 Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y **Administración de Sistemas**. Me dedico constantemente a mejorar mis habilidades y a adaptarme a nuevas herramientas y metodologías, para contribuir a proyectos innovadores y de alto impacto.
 
@@ -101,11 +98,10 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 ## 📞 Conéctate Conmigo
 
 - 📧 **Email:** [diegoma2933@gmail.com](mailto:diegoma2933@gmail.com)
-- 📱 **Teléfono:** +34 695 034 162
 - 🌐 **Sitio Web:** [www.diegomartinarellano.com](https://www.diegomartinarellano.com)
 - 💼 **LinkedIn:** [linkedin.com/in/diego-martin-arellano](https://linkedin.com/in/diego-martin-arellano)
 - 🚗 Permiso de conducir B y coche propio
 
 ---
 
-**¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna pregunta, no dudes en contactarme.** 🚀` (this file) appears on your GitHub profile.
+**¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna pregunta, no dudes en contactarme.** 🚀
