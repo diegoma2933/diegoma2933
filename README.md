@@ -6,9 +6,11 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=diegoma2933&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="500"/>
+![GitHub Stats](./profile/stats.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoma2933&theme=tokyonight&layout=compact&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&card_width=455" alt="Top Languages" width="500"/>
+![Top Languages](./profile/top-langs.svg)
+
+Se generan con GitHub Actions y se guardan como SVG estático en el repositorio, así no dependen de una API pública en cada visita. Si añades un secreto `GH_STATS_TOKEN` con permisos `repo` y `read:user`, también podrá incluir datos privados como antes.
 
 ---
 
