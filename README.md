@@ -6,11 +6,9 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/diegoma2933?style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/diegoma2933/diegoma2933?style=for-the-badge&logo=github&label=Stars)
-![Forks](https://img.shields.io/github/forks/diegoma2933/diegoma2933?style=for-the-badge&logo=github&label=Forks)
+<img src="https://github-readme-stats.vercel.app/api?username=diegoma2933&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="500"/>
 
-Estas estadísticas salen de Shields.io y GitHub API, así que cargan de forma mucho más estable que los cards anteriores.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoma2933&theme=tokyonight&layout=compact&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&card_width=455" alt="Top Languages" width="500"/>
 
 ---
 
