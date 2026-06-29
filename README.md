@@ -10,8 +10,6 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 
 ![Top Languages](./profile/top-langs.svg)
 
-Se generan con GitHub Actions y se guardan como SVG estático en el repositorio, así no dependen de una API pública en cada visita. Si añades un secreto `GH_STATS_TOKEN` con permisos `repo` y `read:user`, también podrá incluir datos privados como antes.
-
 ---
 
 ## 🛠️ Tecnologías
