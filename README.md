@@ -63,7 +63,7 @@ Soy un apasionado de la tecnología especializado en **Desarrollo Full-Stack** y
 ## 🎯 Habilidades
 
 ✅ Desarrollo Web Full-Stack  
-✅ Desarrollo e integración avanzada con IA
+✅ Desarrollo e integración avanzada con IA  
 ✅ Administración de Sistemas  
 ✅ Microservicios con Java y Spring Boot  
 ✅ Computación en la Nube (AWS)  
