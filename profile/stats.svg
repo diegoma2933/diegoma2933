@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Diego Mart&#237;n Arellano&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1460, Total PRs: 2, Total Issues: 0, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1479, Total PRs: 2, Total Issues: 0, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 219.45667600534887;
+        stroke-dashoffset: 219.25746779620744;
       }
     }
   
