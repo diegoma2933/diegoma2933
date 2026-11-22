@@ -25,7 +25,7 @@ Me apasiona la tecnología. Estoy especializado en el desarrollo full-stack y la
 
 Desarrollo aplicaciones web con **Java, Spring Boot, React y AWS**. Actualmente trabajo en un proyecto de **Riesgos de Mercado de BBVA**. He trabajado en consultoría para banca, logística y administración pública, siempre en equipos ágiles.
 
-Tengo dos grados superiores: **Desarrollo de Aplicaciones Web (DAW)** y **Administración de Sistemas Informáticos en Red (ASIR)**. Me formo de manera continua para mejorar mis habilidades y adaptarme a nuevas herramientas y metodologías. Me motiva participar en proyectos de alto impacto.
+Me formo de manera continua para mejorar mis habilidades y adaptarme a nuevas herramientas y metodologías. Me motiva participar en proyectos de alto impacto.
 
 <br>
 
@@ -53,12 +53,12 @@ Aplicaciones propias que he desarrollado.
 | **[Planexa](https://planexa.dimawebapp.com/)** | Gestión de proyectos ágiles con oficina virtual en 3D. | 🟢 Publicado |
 | **[Trackora](https://trackora.dimawebapp.com/)** | Área privada donde los clientes siguen sus proyectos. | 🟢 Publicado |
 | **[Gestempo](https://gestempo.dimawebapp.com/)** | RR. HH., facturación y lectura de facturas con IA profesional. | 🟢 Publicado |
+| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Organiza tu día a día: compra, menú, tareas, etc. | 🟢 Publicado |
 | **[Asesoría Javier](https://www.asesoriajavier.es/)** | Web de una asesoría laboral, fiscal, contable y legal. | 🟢 Publicado |
 | **[DimaWebApp](https://www.dimawebapp.com)** | Mi empresa de software a medida: webs, aplicaciones y automatización. | 🟢 Publicado |
 | **[Porfolio](https://www.diegomartinarellano.com)** | Web sobre mi carrera profesional. | 🟢 Publicado |
 | **Barbelite** | Reservas y gestión de citas para barberías y clientes. | 🟡 Próximamente |
 | **MyFinance** | Finanzas personales: ingresos, gastos, ahorros, etc. | 🔒 Privado |
-| **Apañao'** | Organiza tu día a día: compra, menú, tareas, etc. | 🔒 Privado |
 | **FundSelector** | Optimización y eficacia para la selección de fondos con criterio. | 🔒 Privado |
 
 <br>
