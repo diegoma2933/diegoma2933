@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://www.diegomartinarellano.com/en">
-    <img src="./profile/banner.png" alt="Diego Martín Arellano · Full-Stack Java Developer · I know the whole application, from code to system." width="100%">
+    <img src="./profile/banner.png" alt="Diego Martín Arellano · Full-Stack Developer · I know the whole application, from code to system." width="100%">
   </a>
 </p>
 
 <h1 align="center">Hi! 👋 I'm Diego Martín Arellano</h1>
 
 <p align="center">
-  <strong>Full-Stack Java Developer</strong> · Java · Spring Boot · React · AWS
+  <strong>Full-Stack Developer</strong> · Java · Spring Boot · React · AWS
 </p>
 
 <p align="center">
