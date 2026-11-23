@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.diegomartinarellano.com">
-    <img src="./profile/banner.png" alt="Diego Martín Arellano · Full-Stack Developer · Conozco la aplicación entera, desde el código al sistema." width="100%">
+    <img src="./profile/banner.png" alt="Diego Martín Arellano · Desarrollador Full-Stack Java · Conozco la aplicación entera, desde el código al sistema." width="100%">
   </a>
 </p>
 
