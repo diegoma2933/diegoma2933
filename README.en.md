@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.diegomartinarellano.com/en"><img src="https://img.shields.io/badge/Portfolio-1f4fa3?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diego-martin-arellano/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://www.diegomartinarellano.com/CV_Diego_Martin_Arellano_EN.pdf"><img src="https://img.shields.io/badge/CV%20in%20PDF-30363D?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV in PDF"></a>&nbsp;&nbsp;
+  <a href="https://www.diegomartinarellano.com/CV_EN_Diego_Martin_Arellano.pdf"><img src="https://img.shields.io/badge/CV%20in%20PDF-30363D?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV in PDF"></a>&nbsp;&nbsp;
   <a href="mailto:diegoma2933@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
