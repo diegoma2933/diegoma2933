@@ -1,4 +1,8 @@
 <p align="center">
+  <strong>Español</strong> · <a href="https://github.com/diegoma2933/diegoma2933/blob/main/README.en.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://www.diegomartinarellano.com">
     <img src="./profile/banner.png" alt="Diego Martín Arellano · Full-Stack Developer · Conozco la aplicación entera, desde el código al sistema." width="100%">
   </a>
@@ -7,7 +11,7 @@
 <h1 align="center">¡Hola! 👋 Soy Diego Martín Arellano</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · Java · Spring Boot · React · AWS
+  <strong>Desarrollador Full-Stack Java</strong> · Java · Spring Boot · React · AWS
 </p>
 
 <p align="center">
