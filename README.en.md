@@ -54,16 +54,16 @@ My own applications.
 
 | Project | What it is | Status |
 |---|---|:---:|
+| **Barbelite** | Your barbershop bookings, made in seconds. | 🟡 Coming soon |
+| **MyFinance** | Your finances made clear: what comes in, what you spend and what you save. | 🟡 Coming soon |
+| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Home menus, shopping and chores, organised in one app. | 🟢 Live |
 | **[Planexa](https://planexa.dimawebapp.com/)** | Your team’s projects on track, with a virtual office to work together. | 🟢 Live |
 | **[Trackora](https://trackora.dimawebapp.com/)** | The portal where your clients follow their projects in real time. | 🟢 Live |
+| **FundSelector** | Pick investment funds on data, not gut feeling, with the report ready in Excel. | 🔒 Private |
 | **[Gestempo](https://gestempo.dimawebapp.com/)** | Your company’s HR and invoicing in one place, with AI invoice reading. | 🟢 Live |
-| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Home menus, shopping and chores, organised in one app. | 🟢 Live |
 | **[Asesoría Javier](https://www.asesoriajavier.es/)** | The website that conveys the trust of an employment, tax and legal advisory firm. | 🟢 Live |
 | **[DimaWebApp](https://www.dimawebapp.com)** | My custom software company: websites, applications and automation. | 🟢 Live |
 | **[Portfolio](https://www.diegomartinarellano.com/en)** | Website about my professional career. | 🟢 Live |
-| **Barbelite** | Your barbershop bookings, made in seconds. | 🟡 Coming soon |
-| **MyFinance** | Your finances made clear: what comes in, what you spend and what you save. | 🟡 Coming soon |
-| **FundSelector** | Pick investment funds on data, not gut feeling, with the report ready in Excel. | 🔒 Private |
 
 <br>
 
