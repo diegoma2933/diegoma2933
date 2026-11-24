@@ -27,7 +27,7 @@
 
 Me apasiona la tecnología. Estoy especializado en el desarrollo full-stack y la administración de sistemas, con un enfoque principal en la programación y el mantenimiento de aplicaciones web.
 
-Desarrollo aplicaciones web con **Java, Spring Boot, React y AWS**. Actualmente trabajo en un proyecto de **Riesgos de Mercado de BBVA**. He trabajado en consultoría para banca, logística y administración pública, siempre en equipos ágiles.
+Desarrollo aplicaciones web con **Java, Spring Boot, React y AWS**. Actualmente trabajo en un proyecto de **Riesgos de Mercado de BBVA**. He trabajado en consultoría para banca, logística y sector público, siempre en equipos ágiles.
 
 Me motiva participar en proyectos de alto impacto. Además, sigo formándome de manera continua para mejorar mis habilidades y adaptarme a nuevas herramientas y metodologías.
 
