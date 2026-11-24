@@ -54,16 +54,16 @@ My own applications.
 
 | Project | What it is | Status |
 |---|---|:---:|
-| **[Planexa](https://planexa.dimawebapp.com/)** | Agile project management with a 3D virtual office. | 🟢 Live |
-| **[Trackora](https://trackora.dimawebapp.com/)** | Private area where clients follow their projects. | 🟢 Live |
-| **[Gestempo](https://gestempo.dimawebapp.com/)** | HR, invoicing and professional AI invoice reading. | 🟢 Live |
-| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Organise your day to day: shopping, meals, tasks and more. | 🟢 Live |
-| **[Asesoría Javier](https://www.asesoriajavier.es/)** | Website for a labour, tax, accounting and legal advisory firm. | 🟢 Live |
+| **[Planexa](https://planexa.dimawebapp.com/)** | Your team’s projects on track, with a virtual office to work together. | 🟢 Live |
+| **[Trackora](https://trackora.dimawebapp.com/)** | The portal where your clients follow their projects in real time. | 🟢 Live |
+| **[Gestempo](https://gestempo.dimawebapp.com/)** | Your company’s HR and invoicing in one place, with AI invoice reading. | 🟢 Live |
+| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Home menus, shopping and chores, organised in one app. | 🟢 Live |
+| **[Asesoría Javier](https://www.asesoriajavier.es/)** | The website that conveys the trust of an employment, tax and legal advisory firm. | 🟢 Live |
 | **[DimaWebApp](https://www.dimawebapp.com)** | My custom software company: websites, applications and automation. | 🟢 Live |
 | **[Portfolio](https://www.diegomartinarellano.com/en)** | Website about my professional career. | 🟢 Live |
-| **Barbelite** | Bookings and appointment management for barbershops and their clients. | 🟡 Coming soon |
-| **MyFinance** | Personal finance: income, expenses, savings and more. | 🔒 Private |
-| **FundSelector** | Efficient, well-founded investment fund selection. | 🔒 Private |
+| **Barbelite** | Your barbershop bookings, made in seconds. | 🟡 Coming soon |
+| **MyFinance** | Your finances made clear: what comes in, what you spend and what you save. | 🟡 Coming soon |
+| **FundSelector** | Pick investment funds on data, not gut feeling, with the report ready in Excel. | 🔒 Private |
 
 <br>
 
