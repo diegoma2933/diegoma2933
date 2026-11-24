@@ -11,13 +11,13 @@
 <h1 align="center">¡Hola! 👋 Soy Diego Martín Arellano</h1>
 
 <p align="center">
-  <strong>Desarrollador Full-Stack</strong> · Java · Spring Boot · React · AWS
+  <strong>Desarrollador Full-Stack</strong> · más de 5 años de experiencia
 </p>
 
 <p align="center">
+  <a href="mailto:diegoma2933@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
   <a href="https://www.diegomartinarellano.com"><img src="https://img.shields.io/badge/Porfolio-1f4fa3?style=for-the-badge&logo=astro&logoColor=white" alt="Porfolio"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/diego-martin-arellano/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:diegoma2933@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/diego-martin-arellano/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
