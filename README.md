@@ -54,16 +54,16 @@ Aplicaciones propias que he desarrollado.
 
 | Proyecto | Qué es | Estado |
 |---|---|:---:|
-| **[Planexa](https://planexa.dimawebapp.com/)** | Gestión de proyectos ágiles con oficina virtual en 3D. | 🟢 Publicado |
-| **[Trackora](https://trackora.dimawebapp.com/)** | Área privada donde los clientes siguen sus proyectos. | 🟢 Publicado |
-| **[Gestempo](https://gestempo.dimawebapp.com/)** | RR. HH., facturación y lectura de facturas con IA profesional. | 🟢 Publicado |
-| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Organiza tu día a día: compra, menú, tareas, etc. | 🟢 Publicado |
-| **[Asesoría Javier](https://www.asesoriajavier.es/)** | Web de una asesoría laboral, fiscal, contable y legal. | 🟢 Publicado |
+| **[Planexa](https://planexa.dimawebapp.com/)** | Los proyectos de tu equipo en marcha, con una oficina virtual para trabajar juntos. | 🟢 Publicado |
+| **[Trackora](https://trackora.dimawebapp.com/)** | El portal donde tus clientes siguen sus proyectos en tiempo real. | 🟢 Publicado |
+| **[Gestempo](https://gestempo.dimawebapp.com/)** | RR. HH. y facturación de tu empresa en un solo sitio, con lectura de facturas por IA. | 🟢 Publicado |
+| **[Apañao'](https://apanao-app.dimawebapp.com/)** | Menú, compra y tareas de casa, organizados en una sola app. | 🟢 Publicado |
+| **[Asesoría Javier](https://www.asesoriajavier.es/)** | La web que transmite la confianza de una asesoría laboral, fiscal y jurídica. | 🟢 Publicado |
 | **[DimaWebApp](https://www.dimawebapp.com)** | Mi empresa de software a medida: webs, aplicaciones y automatización. | 🟢 Publicado |
 | **[Porfolio](https://www.diegomartinarellano.com)** | Web sobre mi carrera profesional. | 🟢 Publicado |
-| **Barbelite** | Reservas y gestión de citas para barberías y clientes. | 🟡 Próximamente |
-| **MyFinance** | Finanzas personales: ingresos, gastos, ahorros, etc. | 🔒 Privado |
-| **FundSelector** | Optimización y eficacia para la selección de fondos con criterio. | 🔒 Privado |
+| **Barbelite** | Las citas de tu barbería, reservadas en segundos. | 🟡 Próximamente |
+| **MyFinance** | Tus finanzas claras: lo que entra, lo que gastas y lo que ahorras. | 🟡 Próximamente |
+| **FundSelector** | Elige fondos de inversión con datos, no a ojo, y con el informe listo en Excel. | 🔒 Privado |
 
 <br>
 
